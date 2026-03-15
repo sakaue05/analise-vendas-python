@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Análise de Vendas com Python
 
 Projeto de análise de dados utilizando Python, Pandas e Matplotlib.
@@ -28,6 +27,5 @@ O projeto gera gráficos para facilitar a interpretação dos dados:
 * Faturamento por produto
 * Faturamento por cidade
 * Quantidade vendida por produto
-=======
-# analise-vendas-python
+
 
