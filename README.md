@@ -30,4 +30,4 @@ O projeto gera gráficos para facilitar a interpretação dos dados:
 * Quantidade vendida por produto
 =======
 # analise-vendas-python
->>>>>>> 1f1858635a9ee5abaf88dc05f783f066c91dba17
+
