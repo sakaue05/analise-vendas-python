@@ -1,0 +1,10 @@
+data,produto,categoria,valor,quantidade,cidade
+2024-01-10,Mouse,Eletronicos,80,2,São Paulo
+2024-01-12,Teclado,Eletronicos,150,1,Rio de Janeiro
+2024-01-15,Monitor,Eletronicos,900,1,Belo Horizonte
+2024-01-18,Cadeira,Moveis,1200,1,São Paulo
+2024-01-20,Notebook,Eletronicos,3500,1,Curitiba
+2024-01-25,Mouse,Eletronicos,80,3,São Paulo
+2024-02-01,Teclado,Eletronicos,150,2,Rio de Janeiro
+2024-02-05,Mesa,Moveis,700,1,Brasilia
+2024-02-07,Monitor,Eletronicos,900,2,São Paulo
